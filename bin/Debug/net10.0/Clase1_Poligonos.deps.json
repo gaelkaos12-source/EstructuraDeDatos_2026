@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Clase1_Poligonos/1.0.0": {
+        "runtime": {
+          "Clase1_Poligonos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase1_Poligonos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
