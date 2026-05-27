@@ -1,0 +1,14 @@
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/bin/Debug/net10.0/Clase3_Listas
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/bin/Debug/net10.0/Clase3_Listas.deps.json
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/bin/Debug/net10.0/Clase3_Listas.runtimeconfig.json
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/bin/Debug/net10.0/Clase3_Listas.dll
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/bin/Debug/net10.0/Clase3_Listas.pdb
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.AssemblyInfoInputs.cache
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.AssemblyInfo.cs
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.csproj.CoreCompileInputs.cache
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.dll
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/refint/Clase3_Listas.dll
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.pdb
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/Clase3_Listas.genruntimeconfig.cache
+/Users/gaelkaos/Desktop/EstructuraDeDatos_2026/Clase3_Listas/obj/Debug/net10.0/ref/Clase3_Listas.dll
