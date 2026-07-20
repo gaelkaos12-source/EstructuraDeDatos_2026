@@ -1,5 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
-using System;
+﻿using System;
 
 int numeroOriginal = 5;
 int[] arregloOriginal = { 1, 2, 3 };
@@ -19,7 +18,7 @@ Console.WriteLine("Stack (Pila):");
 Console.WriteLine("  numeroOriginal = 5 (Valor directo)");
 Console.WriteLine("  arregloOriginal -> [Dirección 0x1234] (Puntero al Heap)");
 Console.WriteLine("\nHeap (Montón):");
-Console.WriteLine("  [Dirección 0x1234] -> { 100, 2, 3 } (Datos reales modificados)");
+Console.WriteLine("  [Dirección 0x1234] -> { 100, 2, 3 } (Datos reales)");
 
 void CambiarValor(int x)
 {
