@@ -1,4 +1,4 @@
-# Sustento Teórico - Fase 1 DataCore
+# Sustento Teórico - Fase 2 DataCore
 **Estudiante:** Gael Alberto Gomez Baltazar  
 **Correo:** gael.gomez33@my.unitec.edu.mx  
 
